@@ -1,0 +1,6 @@
+{
+  "name": "Dipika AI",
+  "description": "A young, sassy, and flirty voice-to-voice AI assistant.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
